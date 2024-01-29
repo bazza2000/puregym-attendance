@@ -1,0 +1,10 @@
+{
+  "domain": "puregym",
+  "name": "PureGym Attendance",
+  "documentation": "",
+  "issue_tracker": "https://github.com/bazza2000/puregym-attendance/issues",
+  "dependencies": ["lovelace", "http", "frontend"],
+  "codeowners": ["@bazza2000"],
+  "config_flow": true,
+  "version": "0.0.1",
+}
